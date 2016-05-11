@@ -1,2 +1,3 @@
 # brd-template
-BRD Wiz template
+
+需求承接模板
